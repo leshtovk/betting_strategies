@@ -7,4 +7,4 @@ In the beginning we have 1$. Cards are being drawn from a standard, well shuffle
 - Strategy B: We wait until there is only one color left, and bet all of our money on the remaining color.
 - Strategy C: While there are still two colors left in the deck, we bet all of our money on the LESS likely color, then bet all our money on the remaining color.
 
-I wrote scripts that simulate these strategies over a large number of games. The results are written in my report 'leshtov_mm_project.pdf'.
+I wrote scripts in MATLAB that simulate these strategies over a large number of games. The results are written in my report 'leshtov_mm_project.pdf'.
